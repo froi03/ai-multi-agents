@@ -4,9 +4,12 @@ This is a simple ToDo app built with Vanilla TypeScript and Vite.
 
 ## Features
 
-- Add new tasks
-- Mark tasks as completed
-- Delete tasks
+- ✅ Add new tasks with a simple input field
+- ✅ Mark tasks as completed with visual feedback
+- ✅ Delete tasks with a single click
+- ✅ **NEW:** Gray text styling for completed items (improves visual distinction)
+- ✅ Persistent storage using localStorage
+- ✅ Responsive design with accessibility support
 
 ## Installation
 
@@ -44,9 +47,19 @@ npm run dev
 - Click on a task to mark it as completed.
 - Click on the "X" button next to a task to delete it.
 
+## Recent Updates
+
+### Gray Text for Completed Items (November 2025)
+Completed todo items now appear with gray text color (#999), making it easier to visually distinguish between active and completed tasks. This enhancement:
+- Maintains WCAG AA accessibility with 5.9:1 contrast ratio
+- Uses existing CSS patterns (no JavaScript changes)
+- Provides clear visual feedback without compromising readability
+
+See the [implementation documentation](../grey-text-completed-items.md) for technical details.
+
 ## Make changes to the code:
 
-You can modify the TypeScript files in the src directory to customize the app according to your needs.
+You can modify the TypeScript files in the src directory to customize the app according to your needs. For guidance on maintaining consistency with the project's patterns, see the [Copilot Instructions](../.github/copilot-instructions.md).
 
 ## Contributing
 
