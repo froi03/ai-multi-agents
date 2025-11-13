@@ -144,6 +144,17 @@ See `grey-text-completed-items.md` for detailed implementation documentation.
 
 ## 📖 Documentation
 
+### Getting Started
+- **[Quick Start Guide](QUICK_START.md)**: Practical examples to get started quickly
+- **[Features Overview](FEATURES.md)**: Complete list of features and roadmap
+- **[Changelog](CHANGELOG.md)**: Version history and updates
+
+### In-Depth Guides
+- **[Agent System Guide](docs/AGENT_GUIDE.md)**: How to use agents effectively
+- **[Prompt Chain Guide](docs/PROMPT_CHAIN_GUIDE.md)**: Multi-step workflow details
+- **[Documentation Index](docs/README.md)**: Navigate all documentation
+
+### Reference
 - **[Copilot Instructions](.github/copilot-instructions.md)**: Comprehensive coding guidelines
 - **[Understanding Code](understanding-code.md)**: Prompt chain workflow overview
 - **[Agent Definitions](.github/agents/)**: Individual agent specifications

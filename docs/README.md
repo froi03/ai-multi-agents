@@ -9,7 +9,10 @@ Welcome to the AI Multi-Agents documentation! This index helps you navigate all 
 | Document | Description | Audience |
 |----------|-------------|----------|
 | [README.md](../README.md) | Project overview and quick start | Everyone |
+| [QUICK_START.md](../QUICK_START.md) | Practical examples and workflows | New users |
 | [CONTRIBUTING.md](../CONTRIBUTING.md) | Contribution guidelines | Contributors |
+| [FEATURES.md](../FEATURES.md) | Features overview and roadmap | Product users |
+| [CHANGELOG.md](../CHANGELOG.md) | Version history | Everyone |
 | [understanding-code.md](../understanding-code.md) | Prompt chain workflow overview | Advanced users |
 
 ### Guides
@@ -89,12 +92,15 @@ Located in `.results/5-style-guides/`:
 
 ## 🎓 Learning Paths
 
-### New Contributors
+### For New Users
 
-1. Start with [README.md](../README.md)
-2. Review [CONTRIBUTING.md](../CONTRIBUTING.md)
-3. Explore [Agent System Guide](AGENT_GUIDE.md)
-4. Check [Copilot Instructions](../.github/copilot-instructions.md)
+Start with these examples in order:
+
+1. Start with [README.md](../README.md) for project overview
+2. Try [QUICK_START.md](../QUICK_START.md) practical examples
+3. Review [CONTRIBUTING.md](../CONTRIBUTING.md) if contributing
+4. Explore [Agent System Guide](AGENT_GUIDE.md) for agent usage
+5. Check [Copilot Instructions](../.github/copilot-instructions.md) for coding standards
 
 ### Frontend Developers
 
